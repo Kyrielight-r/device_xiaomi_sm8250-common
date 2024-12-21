@@ -7,6 +7,9 @@ vendor/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so
 vendor/lib64/vendor.qti.esepowermanager@1.0.so
 vendor/lib64/vendor.qti.esepowermanager@1.1.so
 
+# Consumer IR
+ vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.kona.so
+
 # GNSS
 vendor/bin/hw/android.hardware.gnss@2.1-service-qti
 vendor/bin/slim_daemon
