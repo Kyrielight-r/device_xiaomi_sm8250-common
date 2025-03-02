@@ -155,6 +155,7 @@ endif
 # Device-specific settings
 PRODUCT_PACKAGES += \
     XiaomiDolby \
+    XiaomiDolbyResCommon \
     XiaomiParts
 
 # Display
